@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://tanayp327.github.io/CSP-fastpages/sitemap.xml
