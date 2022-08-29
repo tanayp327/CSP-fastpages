@@ -13,6 +13,17 @@
   
     
         ,"post1": {
+            "title": "Bash Tool Check",
+            "content": "python --version .",
+            "url": "https://tanayp327.github.io/CSP-fastpages/fastpages/2022/08/28/ToolCheck.html",
+            "relUrl": "/fastpages/2022/08/28/ToolCheck.html",
+            "date": " • Aug 28, 2022"
+        }
+        
+    
+  
+    
+        ,"post2": {
             "title": "First Notebook Post",
             "content": "print (&quot;Hello World!&quot;) . Hello World! . f = &#39;Tanay&#39; print (&quot;My name is&quot;, f) . My name is Tanay .",
             "url": "https://tanayp327.github.io/CSP-fastpages/jupyter/2022/08/21/firstnotebook.html",
@@ -23,7 +34,7 @@
     
   
     
-        ,"post2": {
+        ,"post3": {
             "title": "First Markdown Post",
             "content": "Welcome . Introduction . My name is Tanay Patel and I am new to computer science. I hope to learn a lot in this course. . Footnotes . Tanay Patel .",
             "url": "https://tanayp327.github.io/CSP-fastpages/markdown/2022/08/21/firstMarkdown.html",
