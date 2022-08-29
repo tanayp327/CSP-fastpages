@@ -4,6 +4,7 @@ layout: page
 description: Tanay's first markdown post!
 categories: [markdown]
 title: First Markdown Post
+image: images/Markdown.png
 ---
 # Welcome
 
