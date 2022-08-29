@@ -1,6 +1,6 @@
 ---
 toc: true
-layout: post
+layout: page
 description: Tanay's first markdown post!
 categories: [markdown]
 title: First Markdown Post
