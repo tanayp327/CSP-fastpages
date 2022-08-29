@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Tanay Patel's Jupyter Notebook",
+            "title": "First Notebook Post",
             "content": "print (&quot;Hello World!&quot;) . Hello World! . f = &#39;Tanay&#39; print (&quot;My name is&quot;, f) . My name is Tanay .",
-            "url": "https://tanayp327.github.io/CSP-fastpages/2022/08/21/firstnotebook.html",
-            "relUrl": "/2022/08/21/firstnotebook.html",
+            "url": "https://tanayp327.github.io/CSP-fastpages/jupyter/2022/08/21/firstnotebook.html",
+            "relUrl": "/jupyter/2022/08/21/firstnotebook.html",
             "date": " • Aug 21, 2022"
         }
         
