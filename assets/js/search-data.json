@@ -25,20 +25,9 @@
 
   
   
-      ,"page0": {
-          "title": "First Markdown Post",
-          "content": "Welcome . Introduction . My name is Tanay Patel and I am new to computer science. I hope to learn a lot in this course. . Footnotes . Tanay Patel .",
-          "url": "https://tanayp327.github.io/CSP-fastpages/_pages/2022-08-28-firstMarkdown.html",
-          "relUrl": "/_pages/2022-08-28-firstMarkdown.html",
-          "date": ""
-      }
-      
-  
 
   
-
-  
-      ,"page2": {
+      ,"page1": {
           "title": "About Me",
           "content": "Hello! My name is Tanay Patel and I hope to learn a lot in this course because I am completely new to computer science. I hope that I am able to improve a lot. .",
           "url": "https://tanayp327.github.io/CSP-fastpages/about/",
@@ -70,7 +59,7 @@
   
 
   
-      ,"page11": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://tanayp327.github.io/CSP-fastpages/robots.txt",
