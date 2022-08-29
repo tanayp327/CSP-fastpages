@@ -2,21 +2,21 @@
   
     
         "post0": {
-            "title": "First Markdown Post",
-            "content": "Welcome . Introduction . My name is Tanay Patel and I am new to computer science. I hope to learn a lot in this course. . Footnotes . Tanay Patel .",
-            "url": "https://tanayp327.github.io/CSP-fastpages/markdown/2022/08/28/firstMarkdown.html",
-            "relUrl": "/markdown/2022/08/28/firstMarkdown.html",
-            "date": " • Aug 28, 2022"
+            "title": "Tanay Patel's Jupyter Notebook",
+            "content": "print (&quot;Hello World!&quot;) . Hello World! . f = &#39;Tanay&#39; print (&quot;My name is&quot;, f) . My name is Tanay .",
+            "url": "https://tanayp327.github.io/CSP-fastpages/2022/08/21/firstnotebook.html",
+            "relUrl": "/2022/08/21/firstnotebook.html",
+            "date": " • Aug 21, 2022"
         }
         
     
   
     
         ,"post1": {
-            "title": "Tanay Patel's Jupyter Notebook",
-            "content": "print (&quot;Hello World!&quot;) . Hello World! . f = &#39;Tanay&#39; print (&quot;My name is&quot;, f) . My name is Tanay .",
-            "url": "https://tanayp327.github.io/CSP-fastpages/2022/08/21/firstnotebook.html",
-            "relUrl": "/2022/08/21/firstnotebook.html",
+            "title": "First Markdown Post",
+            "content": "Welcome . Introduction . My name is Tanay Patel and I am new to computer science. I hope to learn a lot in this course. . Footnotes . Tanay Patel .",
+            "url": "https://tanayp327.github.io/CSP-fastpages/markdown/2022/08/21/firstMarkdown.html",
+            "relUrl": "/markdown/2022/08/21/firstMarkdown.html",
             "date": " • Aug 21, 2022"
         }
         
