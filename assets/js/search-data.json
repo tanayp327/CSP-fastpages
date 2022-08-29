@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Python Quiz",
+            "content": "import getpass, sys def question_with_response(prompt): print(&quot;Question: &quot; + prompt) msg = input() return msg questions = 4 correct = 0 def question_with_response(prompt): print(&quot;Question: &quot; + prompt) msg = input() return msg rsp = question_with_response(&quot;Bill Russel has won the most NBA championships in history. How many championships has he won?&quot;) if rsp == &quot;11&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;What was the last year that the Sacramento Kings made the playoffs?&quot;) if rsp == &quot;2006&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;Which player holds the record for the most points in a single game?&quot;) if rsp == &quot;Wilt Chamberlain&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;Which NBA player holds the all-time record for the most total assists?&quot;) if rsp == &quot;John Stockton&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) print(getpass.getuser() + &quot; you scored &quot; + str(correct) +&quot;/&quot; + str(questions)) . Question: Bill Russel has won the most NBA championships in history. How many championships has he won? 11 is correct! Question: What was the last year that the Sacramento Kings made the playoffs? 2006 is correct! Question: Which player holds the record for the most points in a single game? Wilt Chamberlain is correct! Question: Which NBA player holds the all-time record for the most total assists? John Stockton is correct! patel you scored 4/4 .",
+            "url": "https://tanayp327.github.io/CSP-fastpages/quiz/2022/08/29/PythonQuiz.html",
+            "relUrl": "/quiz/2022/08/29/PythonQuiz.html",
+            "date": " • Aug 29, 2022"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "First Notebook Post",
             "content": "print (&quot;Hello World!&quot;) . Hello World! . f = &#39;Tanay&#39; print (&quot;My name is&quot;, f) . My name is Tanay .",
             "url": "https://tanayp327.github.io/CSP-fastpages/jupyter/2022/08/21/firstnotebook.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "First Markdown Post",
             "content": "Welcome . Introduction . My name is Tanay Patel and I am new to computer science. I hope to learn a lot in this course. . Footnotes . Tanay Patel .",
             "url": "https://tanayp327.github.io/CSP-fastpages/markdown/2022/08/21/firstMarkdown.html",
