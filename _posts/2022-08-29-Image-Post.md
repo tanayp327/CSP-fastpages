@@ -1,2 +1,2 @@
-![]({{site.baseurl}}/images/FastPages (500 x 480 px).png)
+![]({{site.baseurl}}/images/FastPages (500 × 480 px).png "https://github.com/fastai/fastpages")
 This is my image
