@@ -1,10 +1,9 @@
 ---
 toc: true
 layout: page
-description: Tanay's first markdown post!
+description: A post of an image!
 categories: [markdown]
-title: First Markdown Post
-image: images/Markdown.png
+title: Image Post
 ---
 
 ![]({{site.baseurl}}/images/FastPages (500 × 480 px).png "https://github.com/fastai/fastpages")
