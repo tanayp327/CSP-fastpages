@@ -4,6 +4,7 @@ layout: post
 description: HTML Hacks!
 categories: [HTML]
 title:  Week 2 - HTML Hacks
+image: images/HTML_5.png
 ---
 
 ## 2022 NBA Player Statistics
@@ -41,72 +42,43 @@ title:  Week 2 - HTML Hacks
 
     <tr>
         <td>
-            2 🚧
+            Stephen Curry
         </td>
         <td>
-            <a href="{{site.baseurl}}/week/2">Data Abstraction</a>
+            25.5 PPG
         </td>
         <td>
-            <a href="{{site.baseurl}}/collegeboard/anthony-and-sahil">Reflections on Computer Science</a>
-            <br/>
-            Alumni Panel (extra credit)        </td>
-        <td>
-            <a href="{{site.baseurl}}/collegeboard/python_lists">Python Lists and Dictionaries</a>
+            5.2 RPG
         </td>
         <td>
-            <a href="{{site.baseurl}}/techtalk/html">HTML Fragments and Layouts</a>
+            6.3 APG    
         </td>
         <td>
-            <a href="{{apcsp}}/points/2">Data Abstraction Points</a>
-            <br>
-            <a href="{{issues}}/22">Review Tickets</a>
+            1.3 SPG
+        </td>
+        <td>
+            0.4 BPG
         </td>
     </tr>
 
     <tr>
         <td>
-            1 💰
+            LeBron James
         </td>
         <td>
-            <a href="{{site.baseurl}}/week/1">Introduction to Python</a>
+            30.3 PPG
         </td>
         <td>
-            Table Visits
+            8.2 RPG
         </td>
         <td>
-            <a href="{{site.baseurl}}/collegeboard/python">Hello to Python</a>
+            6.2 APG    
         </td>
         <td>
-            <a href="{{site.baseurl}}/techtalk/bash">Bash and Checks</a>
-            <br>
-            <a href="{{site.baseurl}}/techtalk/fastpages">Fastpages, Jupyter Notebooks, Markdown</a>     
+            1.3 SPG
         </td>
         <td>
-            <a href="{{canvas}}/2296689">Intro Python, Jupyter, Fastpages</a>
-            <br>
-            <a href="{{issues}}/21">Review Tickets</a>
-        </td>
-    </tr>
-    
-    <tr>
-        <td>
-            0 💰
-        </td>
-        <td><a href="{{site.baseurl}}/week/0">Tool Setup</a></td>
-        <td>
-            <a href="{{site.baseurl}}/collegeboard/history">Scoring History</a>
-        </td>
-        <td>
-            <a href="{{site.baseurl}}/collegeboard/pseudo_code">Pseudo Code</a>
-        </td>
-        <td>
-            <a href="{{site.baseurl}}/techtalk/tools">Tools and Equipment</a>
-        </td>
-        <td>
-
-            <a href="{{canvas}}/2206627">Tools Setup</a>
-            <br>
-            <a href="{{issues}}/11">Review Tickets</a>
+            1.1 BPG
         </td>
     </tr>
     
