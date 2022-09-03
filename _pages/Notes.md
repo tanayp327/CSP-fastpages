@@ -12,3 +12,7 @@ permalink: /notes/
     - Started on frontend development on fastpages
     - Discussed bash
     - Learned basic python
+
+- Week 2
+    - Discussed lists and dictionaries
+    - Went over HTML Fragments
