@@ -7,6 +7,16 @@ title:  Week 2 - HTML Hacks
 image: images/HTML_5.png
 ---
 
+## Changing Theme of Blog
+
+I temporarily changed my theme of my blog to the Time Machine theme.
+
+![]({{site.baseurl}}/images/fastpages-themechange.jpg)
+
+The preview image didn't show up and the formatting was messed up.
+
+
+
 ## 2022 NBA Player Statistics
 
 <table>
