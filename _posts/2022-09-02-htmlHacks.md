@@ -6,33 +6,37 @@ categories: [HTML]
 title:  Week 2 - HTML Hacks
 ---
 
+## 2022 NBA Player Statistics
+
 <table>
     <tr>
-     <th>Week</th>
-     <th>Sprint</th>
-     <th>Human Prep</th>
-     <th>AP Test Prep</th>
-     <th>Career Tech</th>
-     <th>Canvas</th>
+     <th>Player Name</th>
+     <th>Points per Game</th>
+     <th>Rebounds per Game</th>
+     <th>Assists per Game</th>
+     <th>Steals Per Game</th>
+     <th>Blocks Per Game</th>
     </tr>
 
     <tr>
         <td>
-            3
-        </td>
-        <td><a href="{{site.baseurl}}/week/3">Creative Development</a></td>
-        <td>
-            <a href="{{site.baseurl}}/collegeboard/bria">How I got a  5!</a>
+            De'aaron Fox
         </td>
         <td>
-            <a href="{{site.baseurl}}/collegeboard/create">Create Performance Task</a>
+            23.2 PPG
         </td>
         <td>
-            <a href="{{site.baseurl}}/techtalk/javascript">JavaScript Tutorial</a>
-            <br>
-            <a href="{{site.baseurl}}/techtalk/applab">Program Design with AppLab</a>
+            3.9 RPG
         </td>
-        <td>TBD</td>
+        <td>
+            5.6 APG    
+        </td>
+        <td>
+            1.2 SPG
+        </td>
+        <td>
+            0.4 BPG
+        </td>
     </tr>
 
     <tr>
