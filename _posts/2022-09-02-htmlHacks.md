@@ -17,79 +17,55 @@ The preview image didn't show up and the formatting was messed up.
 
 
 
-## 2022 NBA Player Statistics
+## Time Box Table
 
 <table>
-    <tr>
-     <th>Player Name</th>
-     <th>Points per Game</th>
-     <th>Rebounds per Game</th>
-     <th>Assists per Game</th>
-     <th>Steals Per Game</th>
-     <th>Blocks Per Game</th>
+    <tbody><tr>
+     <th>Week</th>
+     <th>Sprint</th>
+     <th>Overview</th>
     </tr>
 
     <tr>
         <td>
-            De'aaron Fox
+            3
         </td>
-        <td>
-            23.2 PPG
-        </td>
-        <td>
-            3.9 RPG
-        </td>
-        <td>
-            5.6 APG    
-        </td>
-        <td>
-            1.2 SPG
-        </td>
-        <td>
-            0.4 BPG
-        </td>
+        <td><a href="/APCSP/week/3">Creative Development</a></td>
+        <td>TBD</td>
     </tr>
 
     <tr>
         <td>
-            Stephen Curry
+            2
         </td>
         <td>
-            25.5 PPG
+            <a href="/APCSP/week/2">Data Abstraction</a>
         </td>
         <td>
-            5.2 RPG
-        </td>
-        <td>
-            6.3 APG    
-        </td>
-        <td>
-            1.3 SPG
-        </td>
-        <td>
-            0.4 BPG
+        We did slightly more python, involving lists and dictionaries, we made another quiz with those, and learned HTML fragments.
         </td>
     </tr>
 
     <tr>
         <td>
-            LeBron James
+            1
         </td>
         <td>
-            30.3 PPG
+            <a href="/APCSP/week/1">Introduction to Python</a>
         </td>
         <td>
-            8.2 RPG
-        </td>
-        <td>
-            6.2 APG    
-        </td>
-        <td>
-            1.3 SPG
-        </td>
-        <td>
-            1.1 BPG
+            We made a quiz in Python and used Bash for the tool check as well.
         </td>
     </tr>
     
-</table>
+    <tr>
+        <td>
+            0
+        </td>
+        <td><a href="/APCSP/week/0">Tool Setup</a></td>
+        <td>
+            We went through installation of all the tools such as Anaconda, Python, VSCode, and WSL. We  made a github account and fastpages.
+        </td>
+    </tr>
+    
+</tbody></table>
