@@ -15,8 +15,8 @@
         ,"post1": {
             "title": "Week 2 - HTML Hacks",
             "content": "Changing Theme of Blog . I temporarily changed my theme of my blog to the Time Machine theme. . . The preview image didn’t show up and the formatting was messed up. . Time Box Table . Week Sprint Overview . 2 | Data Abstraction | We did slightly more python, involving lists and dictionaries, we made another quiz with those, and learned HTML fragments. | . 1 | Introduction to Python | We made a quiz in Python and used Bash for the tool check as well. | . 0 | Tool Setup | We went through installation of all the tools such as Anaconda, Python, VSCode, and WSL. We made a github account and fastpages. | .",
-            "url": "https://tanayp327.github.io/CSP-fastpages/html/2022/09/02/htmlHacks.html",
-            "relUrl": "/html/2022/09/02/htmlHacks.html",
+            "url": "https://tanayp327.github.io/CSP-fastpages/html/hacks/2022/09/02/htmlHacks.html",
+            "relUrl": "/html/hacks/2022/09/02/htmlHacks.html",
             "date": " • Sep 2, 2022"
         }
         
