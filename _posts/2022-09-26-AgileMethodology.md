@@ -8,4 +8,4 @@ title: Agile Methodology Diagram
 
 ## Our Agile Methodology Diagram
 
-![]({{site.baseurl}}/images/Agile-Methodology)
+![]({{site.baseurl}}/images/Agile-Methodology.jpg)
