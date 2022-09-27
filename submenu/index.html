@@ -4,20 +4,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="twitter:card" content="summary_large_image" /><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>JavaScript | Tanay Patel’s FastPages</title>
+<title>Submenu | Tanay Patel’s FastPages</title>
 <meta name="generator" content="Jekyll v4.1.1" />
-<meta property="og:title" content="JavaScript" />
+<meta property="og:title" content="Submenu" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="My FastPages Website." />
 <meta property="og:description" content="My FastPages Website." />
-<link rel="canonical" href="https://tanayp327.github.io/CSP-fastpages/javascript/" />
-<meta property="og:url" content="https://tanayp327.github.io/CSP-fastpages/javascript/" />
+<link rel="canonical" href="https://tanayp327.github.io/CSP-fastpages/submenu/" />
+<meta property="og:url" content="https://tanayp327.github.io/CSP-fastpages/submenu/" />
 <meta property="og:site_name" content="Tanay Patel’s FastPages" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="JavaScript" />
+<meta property="twitter:title" content="Submenu" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"My FastPages Website.","headline":"JavaScript","url":"https://tanayp327.github.io/CSP-fastpages/javascript/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"My FastPages Website.","headline":"Submenu","url":"https://tanayp327.github.io/CSP-fastpages/submenu/"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/CSP-fastpages/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://tanayp327.github.io/CSP-fastpages/feed.xml" title="Tanay Patel's FastPages" /><link rel="shortcut icon" type="image/x-icon" href="/CSP-fastpages/images/favicon.ico"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/15.2.0/primer.css" integrity="sha512-xTz2ys4coGAOz8vuV1NcQBkgVmKhsSEtjbqyMJbBHRplFuvKIUo6xhLHpAyPt9mfR6twHJgn9OgVLuqOvjeBhg==" crossorigin="anonymous" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
@@ -64,7 +64,7 @@ window.onload = wrap_img;
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/CSP-fastpages/javascript/">JavaScript</a><a class="page-link" href="/CSP-fastpages/notes/">CSP Notes</a><a class="page-link" href="/CSP-fastpages/about/">About Me</a><a class="page-link" href="/CSP-fastpages/search/">Search</a><a class="page-link" href="/CSP-fastpages/categories/">Tags</a></div>
+        <div class="trigger"><a class="page-link" href="/CSP-fastpages/notes/">CSP Notes</a><a class="page-link" href="/CSP-fastpages/submenu/">Submenu</a><a class="page-link" href="/CSP-fastpages/about/">About Me</a><a class="page-link" href="/CSP-fastpages/search/">Search</a><a class="page-link" href="/CSP-fastpages/categories/">Tags</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -72,12 +72,95 @@ window.onload = wrap_img;
         <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">JavaScript</h1>
+    <h1 class="post-title">Submenu</h1>
   </header>
 
   <div class="post-content">
-    
+    <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
 
+.navbar {
+  overflow: hidden;
+  background-color: #333; 
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+  background-color: rgb(0, 145, 255);
+}
+
+.subnav-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: rgb(0, 109, 192);
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color: #eee;
+  color: black;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
+}
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <div class="subnav">
+    <a href="/csp-fastpages/">Home</a>
+    <button class="subnavbtn">Javascript <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+        <a class="Post" href="/CSP-fastpages/2022/09/26/GroupTable.html">Post</a>
+        <a class="Notebook" href="/CSP-fastpages/2022-09-26-JSProof.ipynb">Notebook</a>
+    </div>
+  </div> 
+</div>
+
+</body>
+</html>
   </div>
 
 </article>
