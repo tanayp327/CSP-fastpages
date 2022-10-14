@@ -241,6 +241,7 @@ window.onload = wrap_img;
         <span class="nb">print</span><span class="p">(</span><span class="s2">"Your order so far: 1"</span><span class="p">,</span> <span class="n">item</span><span class="p">)</span>
         <span class="nb">print</span><span class="p">(</span><span class="s2">"This costs $"</span><span class="p">,</span> <span class="n">menu</span><span class="p">[</span><span class="n">item</span><span class="p">])</span>
     <span class="k">elif</span> <span class="n">item</span> <span class="o">==</span> <span class="nb">str</span><span class="p">(</span><span class="s2">"Done"</span><span class="p">):</span>
+        <span class="nb">round</span><span class="p">(</span><span class="n">total</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
         <span class="nb">print</span><span class="p">(</span><span class="s2">"Your total is: $"</span><span class="p">,</span> <span class="n">total</span><span class="p">)</span>
         <span class="nb">print</span><span class="p">(</span><span class="s2">"Enjoy!"</span><span class="p">)</span>
     <span class="k">else</span><span class="p">:</span>           
@@ -270,7 +271,9 @@ Your order so far: 1 burger
 This costs $ 3.99
 Your order so far: 1 fries
 This costs $ 2.99
-Your total is: $ 6.98
+Your order so far: 1 drink
+This costs $ 0.99
+Your total is: $ 7.970000000000001
 Enjoy!
 Have a good day!
 </pre>
