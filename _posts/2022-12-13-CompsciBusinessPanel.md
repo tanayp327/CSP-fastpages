@@ -8,36 +8,40 @@ title: High Tech Employees Seminar
 
 # Kathyleen Beveridge (Project Managements)
 
-* She has a finance degree, and did MBA at USC
+* Did her MBA at USC
 * Her first job out of college was being an investment banker at Wells Fargo
 * Her first high tech job was at HP and she realized this is what she wanted to do
 * She moved to San Diego and started working for Qualcomm
 * Worked for 3 companies so far (Qualcomm, HP, and Thermo Fisher Scientific)
 
+
 ### Company Mission Statements
-* "Create technology that makes better for everyone, everywhere" : HP
-* "Inventing the tech the world loves" : Qualcomm
-* Enable our customers to make the world healthier, cleaner and safer: Thermo Fisher Scientific
+* HP - "Create technology that makes better for everyone, everywhere"
+* Qualcomm - "Inventing the tech the world loves"
+*  Thermo Fisher Scientific - Enable our customers to make the world healthier, cleaner and safer
+* ALL of these mission statements involve developing tech to help the people
 
 
 
-# Kris Porter (Developer Operation, Software Engineer - SRE, DevOps)
+# Kris Porter (Developer Operations)
 
-* Attended Livermore High School
 * Enrolled at UCLA for Electrical Engineering (masters degree)
+* He gailed his first computer science class, got a C in the next
+* Now he is working with technical side of things despite this
+* This shows that perseverance can be one of the most useful qualities in this high tech
 * Master's Degree in Electrical Engineering from Cal State LA (Communications Systems)
 
 ### Research
 * Center for Embedded Networked Sensors(NIMS)
 * Introduced the linux Operating System, Software Development Life Cycle
 
-### Time Line
+### Time Frame
 * 2010 - Systems Engineer at a Start up, GPM (Email marketing automation)
 * NBC Universal, Streaming media Infastructures
 * 2014 intro to DevOps, transition to Qualcomm
 * 2021 Working at Twitter
 
-### Continuous Learning - highlights
+### Continuous Learning
 * CCNA training
 * Machine Learning and Deep Learning (Qualcomm)
 * PYthon (Udemy)
@@ -53,7 +57,7 @@ title: High Tech Employees Seminar
 
 
 
-# Questions/after presentation
+# Questions after presentation
 * Continuous learning, learning how to learn. Learning new coding languages
 * Being Adaptive, listening and understanding, and translating it towards the technology solving the requirements
 
