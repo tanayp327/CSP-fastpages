@@ -79,7 +79,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      8 min read
+      9 min read
     
 </span></p>
 
@@ -175,12 +175,12 @@ window.onload = wrap_img;
 </h3>
 <ul>
 <li>The ability of an algorithm to solve a problem in an efficient way<ul>
-<li>An efficient algorithm solves a problem <strong>___</strong> and with a <strong><strong><strong>_</strong></strong></strong>, such as time and memory.</li>
+<li>An efficient algorithm solves a problem quickly and with a minimum amount of resources, such as time and memory.</li>
 </ul>
 </li>
 <li>How do we determine if an algorithm is efficient or not?<ul>
-<li>One way we can do this is by determining the <strong><strong>_</strong></strong> of the algorithm.</li>
-<li>Another way is through <strong><strong>_</strong></strong>. </li>
+<li>One way we can do this is by determining the time complexity of the algorithm.</li>
+<li>Another way is through space complexity. </li>
 </ul>
 </li>
 </ul>
@@ -196,9 +196,10 @@ window.onload = wrap_img;
 </h2>
 <p>What did you and your team discuss? (record below)</p>
 <ul>
-<li>An <strong><em>__</em></strong> solution is <strong><strong><strong><strong>__</strong></strong></strong></strong> that produces a solution that isn't necessarily <strong>_</strong> but can be used when normal methods take forever </li>
+<li>An heuristic solution is an approach to a problem that produces a solution that isn't necessarily optimal but can be used when normal methods take forever </li>
 </ul>
 <p>Describe the method used to solve the traveling merchant problem. (record below)</p>
+<p>The method I thought of using was to go to the closest city each time. We just have to make sure that we don't repeat any cities.</p>
 
 </div>
 </div>
@@ -227,8 +228,8 @@ There are two types of decision problems that Collegeboard goes over:</p>
 <li>Decidable Problems</li>
 <li>Undecidable Problems</li>
 </ul>
-<p>A <strong><em>__</em></strong> is a problem in computer science and mathematics for which an algorithm can be created that can always produce a correct answer or solution. In other words, a decidable problem is a problem for which there exists an algorithm that can be used to determine whether a given input is a valid solution or not.</p>
-<p>An <strong><em>__</em></strong> problem is a problem in computer science and mathematics for which it is impossible to create an algorithm that can always provide a correct answer or solution. This means that it is not possible for an algorithm to always determine whether a given input is a valid solution to an undecidable problem.</p>
+<p>A decidable problem is a problem in computer science and mathematics for which an algorithm can be created that can always produce a correct answer or solution. In other words, a decidable problem is a problem for which there exists an algorithm that can be used to determine whether a given input is a valid solution or not.</p>
+<p>An undecidable problem is a problem in computer science and mathematics for which it is impossible to create an algorithm that can always provide a correct answer or solution. This means that it is not possible for an algorithm to always determine whether a given input is a valid solution to an undecidable problem.</p>
 </blockquote>
 
 </div>
@@ -342,6 +343,29 @@ False
 </div>
 </div>
 
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_text output_error">
+<pre>
+<span class="ansi-red-fg">---------------------------------------------------------------------------</span>
+<span class="ansi-red-fg">KeyboardInterrupt</span>                         Traceback (most recent call last)
+<span class="ansi-green-intense-fg ansi-bold">/home/tanayp327/vscode/vscode/CSP-fastpages/_notebooks/2022-12-14-lesson.ipynb Cell 11</span> in <span class="ansi-cyan-fg">&lt;cell line: 10&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-intense-fg ansi-bold">     &lt;a href='vscode-notebook-cell://wsl%2Bubuntu/home/tanayp327/vscode/vscode/CSP-fastpages/_notebooks/2022-12-14-lesson.ipynb#X13sdnNjb2RlLXJlbW90ZQ%3D%3D?line=9'&gt;10&lt;/a&gt;</span> while i == 0:
+<span class="ansi-green-intense-fg ansi-bold">     &lt;a href='vscode-notebook-cell://wsl%2Bubuntu/home/tanayp327/vscode/vscode/CSP-fastpages/_notebooks/2022-12-14-lesson.ipynb#X13sdnNjb2RlLXJlbW90ZQ%3D%3D?line=10'&gt;11&lt;/a&gt;</span>     number += 1
+<span class="ansi-green-fg">---&gt; &lt;a href='vscode-notebook-cell://wsl%2Bubuntu/home/tanayp327/vscode/vscode/CSP-fastpages/_notebooks/2022-12-14-lesson.ipynb#X13sdnNjb2RlLXJlbW90ZQ%3D%3D?line=11'&gt;12&lt;/a&gt;</span>     if integerTest(number) == False:
+<span class="ansi-green-intense-fg ansi-bold">     &lt;a href='vscode-notebook-cell://wsl%2Bubuntu/home/tanayp327/vscode/vscode/CSP-fastpages/_notebooks/2022-12-14-lesson.ipynb#X13sdnNjb2RlLXJlbW90ZQ%3D%3D?line=12'&gt;13&lt;/a&gt;</span>         i +=1
+<span class="ansi-green-intense-fg ansi-bold">     &lt;a href='vscode-notebook-cell://wsl%2Bubuntu/home/tanayp327/vscode/vscode/CSP-fastpages/_notebooks/2022-12-14-lesson.ipynb#X13sdnNjb2RlLXJlbW90ZQ%3D%3D?line=13'&gt;14&lt;/a&gt;</span>         print("Done")
+
+<span class="ansi-red-fg">KeyboardInterrupt</span>: </pre>
+</div>
+</div>
+
+</div>
+</div>
+
 </div>
     
 
@@ -351,9 +375,9 @@ False
 <h3 id="The-Halting-Problem">
 <a class="anchor" href="#The-Halting-Problem" aria-hidden="true"><span class="octicon octicon-link"></span></a>The Halting Problem<a class="anchor-link" href="#The-Halting-Problem"> </a>
 </h3>
-<p>The halting problem is an example of an <strong><em>__</em></strong>. It states that it is not always possible to correctly determine whether a code halts or runs forever.</p>
+<p>The halting problem is an example of an undecidable problem. It states that it is not always possible to correctly determine whether a code halts or runs forever.</p>
 <blockquote>
-<p>There is <strong><em>__</em></strong> to write an algorithm to analyze and determine whether a body of code can run forever or not.</p>
+<p>There is no way to write an algorithm to analyze and determine whether a body of code can run forever or not.</p>
 </blockquote>
 
 </div>
@@ -368,8 +392,8 @@ False
 <ul>
 <li>In order to understand this, suppose that an algorithm was able to analyze whether a code halts or not. Let's call this algorithm <code>HaltChecker</code>.</li>
 <li>
-<code>HaltChecker</code> analyzes the program,<code>program P</code>, and its input,<code>input I</code>. If <code>program P</code> halts with <code>input I</code>, <code>HaltChecker</code> returns an output of "halts". If <code>program P</code> doesn't halt(runs forever) with <code>input I</code>, <code>HaltChecker</code> returns an output of "never". For example, in the code where it tests if variable <strong>number</strong>, the <strong><em>__</em></strong>, so <code>HaltChecker</code> returns an output of <strong><em>__</em></strong>.</li>
-<li>Then, we add another algorithm called <code>Reverser</code> which reverses <code>HaltChecker</code>'s output. So, if "never" is the output of <code>HaltChecker</code>, then the output of <code>Reverser</code> is <strong><em>__</em></strong>. It's also the same the other way around: if <code>HaltChecker</code> has an output of "halts", then <code>Reverser</code> has an output of <strong><em>__</em></strong>.</li>
+<code>HaltChecker</code> analyzes the program,<code>program P</code>, and its input,<code>input I</code>. If <code>program P</code> halts with <code>input I</code>, <code>HaltChecker</code> returns an output of "halts". If <code>program P</code> doesn't halt(runs forever) with <code>input I</code>, <code>HaltChecker</code> returns an output of "never". For example, in the code where it tests if variable <strong>number</strong>, the code runs forever, so <code>HaltChecker</code> returns an output of "never".</li>
+<li>Then, we add another algorithm called <code>Reverser</code> which reverses <code>HaltChecker</code>'s output. So, if "never" is the output of <code>HaltChecker</code>, then the output of <code>Reverser</code> is "halts". It's also the same the other way around: if <code>HaltChecker</code> has an output of "halts", then <code>Reverser</code> has an output of "never".</li>
 <li>We combine these algorithms into one entire body of code.</li>
 <li><strong>Since <code>Reverser</code> is the algorithm at the end, hence giving the ultimate output, notice how it prints "never" when in fact there is an end(As proved by <code>HaltChecker</code>), and how it also prints "halts" when there is in fact is no end to the code(Also proved by <code>HaltChecker</code>). As a result, <code>HaltChecker</code> is inaccurate and this is an undecidable problem.</strong></li>
 </ul>
