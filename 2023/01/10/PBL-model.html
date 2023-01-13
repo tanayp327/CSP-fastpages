@@ -436,12 +436,23 @@ Test 4, make a dictionary
     <span class="k">def</span> <span class="nf">set_date_of_birth</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">date</span><span class="p">):</span>
         <span class="bp">self</span><span class="o">.</span><span class="n">date_of_birth</span> <span class="o">=</span> <span class="n">date</span>
 
-<span class="n">s</span> <span class="o">=</span> <span class="n">Student</span><span class="p">(</span><span class="s2">"Tanay"</span><span class="p">,</span> <span class="mi">15</span><span class="p">,</span> <span class="mi">2025</span><span class="p">,</span> <span class="s2">"07-24-2007"</span><span class="p">)</span>
+<span class="c1"># Create a list to store the students</span>
+<span class="n">students</span> <span class="o">=</span> <span class="p">[]</span>
 
-<span class="nb">print</span><span class="p">(</span><span class="n">s</span><span class="o">.</span><span class="n">name</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">s</span><span class="o">.</span><span class="n">age</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">s</span><span class="o">.</span><span class="n">class_of</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">s</span><span class="o">.</span><span class="n">date_of_birth</span><span class="p">)</span>
+<span class="c1"># Create and add the first student</span>
+<span class="n">s</span> <span class="o">=</span> <span class="n">Student</span><span class="p">(</span><span class="s2">"Tanay"</span><span class="p">,</span> <span class="mi">15</span><span class="p">,</span> <span class="mi">2025</span><span class="p">,</span> <span class="s2">"07-24-2007"</span><span class="p">)</span>
+<span class="n">students</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
+
+<span class="c1"># Create and add more students</span>
+<span class="n">students</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">Student</span><span class="p">(</span><span class="s2">"John"</span><span class="p">,</span> <span class="mi">16</span><span class="p">,</span> <span class="mi">2026</span><span class="p">,</span> <span class="s2">"01-01-2006"</span><span class="p">))</span>
+<span class="n">students</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">Student</span><span class="p">(</span><span class="s2">"Mary"</span><span class="p">,</span> <span class="mi">17</span><span class="p">,</span> <span class="mi">2027</span><span class="p">,</span> <span class="s2">"02-14-2005"</span><span class="p">))</span>
+
+<span class="c1"># Print the information for all students</span>
+<span class="k">for</span> <span class="n">student</span> <span class="ow">in</span> <span class="n">students</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">student</span><span class="o">.</span><span class="n">name</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">student</span><span class="o">.</span><span class="n">age</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">student</span><span class="o">.</span><span class="n">class_of</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">student</span><span class="o">.</span><span class="n">date_of_birth</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -458,6 +469,14 @@ Test 4, make a dictionary
 15
 2025
 07-24-2007
+John
+16
+2026
+01-01-2006
+Mary
+17
+2027
+02-14-2005
 </pre>
 </div>
 </div>
