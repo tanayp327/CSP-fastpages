@@ -32,4 +32,13 @@ Sequencing will be used to order the results of the inputs from the relevance by
 2. Test if a new list is created for new searches and this is deleted when the user exits the search, or the the website altogether
 
 &nbsp;
+## Code Plan
+1. The user visits the website and opens the search feature, displaying a search bar and enters their input
+2. The function recipeSearch() will search through the different keywords of the recipes
+3. The function sortingRecipes() will order the recipes and add to a list
+4. After sequencing the recipes, they show in table form
+5. They scroll through the options to select the one they want
+
+&nbsp;
 ## Video Plan
+In the video I will search for a certain food, for example "pancakes". I will scroll through the results to demonstrate how the sequencing by keywords works.
