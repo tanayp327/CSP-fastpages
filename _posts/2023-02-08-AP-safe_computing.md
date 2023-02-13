@@ -38,9 +38,15 @@ As we create a Web Site and post information we are adding to the Searchable PII
 * After a Virus or being compromised by Phishing it is advised to review all of you PII vulnerabilities.
 
 ## Blog Post Reflection:
-1. Describe PII you have seen on project in CompSci Principles.   
-1. What are your feelings about PII and your personal exposure?
-1. Describe good and bad passwords?  What is another step that is used to assist in authentication.
-1. Try to describe Symmetric and Asymmetric encryption.  
-1. Provide an example of encryption we used in AWS deployment.
-1. Describe a phishing scheme you have learned about ***the hard way***.  Describe some other phishing techniques.
+1. Describe PII you have seen on project in CompSci Principles.
+     I have seen multiple projects that ask for some sort of personal information through the creation of accounts.
+2. What are your feelings about PII and your personal exposure?
+     I believe that PII are an important aspect of our internet activities. Most of our web services rely on such PII’s for providing us with the best quality and experience.
+3. Describe good and bad passwords?  What is another step that is used to assist in authentication.
+     Good passwords typically have certain safety measures, such as a set minimum password length, a mix of numbers and letters, mixed-cases for alphabetical characters, as well as other special symbols.
+4. Try to describe Symmetric and Asymmetric encryption.  
+     In symmetric encryption, only one secret key is used to encrypt and decrypt encrypted content. In asymmetric encryption public and private keys are used in order to encrypt and decrypt.
+5. Provide an example of encryption we used in AWS deployment.
+     Encryption that we used in AWS deployment is SSL encryption, which uses a mix of both symmetric and asymmetric encryption methods. We have also previously generated RSA keys too for our SSH deployment keys when we set up the project.
+6. Describe a phishing scheme you have learned about ***the hard way***.  Describe some other phishing techniques.
+     I have never been phished, but I have gotten many emails claiming to be from big businesses, or people in need that can give me a large sum of money after I send them $50 or something along those lines. Mainly, these techniques impersonate someone else to gain the victim's trust.
