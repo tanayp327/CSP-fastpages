@@ -66,4 +66,5 @@ Creative Commons, Open Source are free terminologies!  However, businesses will 
 2. In your blog, summarize the discussions and personal analysis on Software Licenses/Options, Digital Rights, and other Legal and Ethical thoughts from this College Board topic.
   Licenses help protect the software to make sure technology is protected and will not be plagiarized by others. Digital Rights can be used to protect and distribute content. This can be used to prevent pirating different types of content.
 3. Make a license for your personal (blog) and Team repositories for the CPT project.  Be sure to have a license for both Team GitHub repositories (frontend/backend).  Document license(s) you picked and why.  FYI, frontend, since it is built on GitHub pages may come with a license and restrictions.  Document in blog how team made license choice and process of update.
-  
+  - Frontend and Backend: We chose a GPL License for both our frontend and backend so that users are forced to keep their repository public so it is clear that we are being credited
+  - Personal: I chose to use an MIT license for my personal FastPages because it allows a lot of leniency for users in the use of my FastPages, which I am open to letting people use how they want.
